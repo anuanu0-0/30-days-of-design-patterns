@@ -11,3 +11,15 @@
 |     |                    | Serialized Singleton        | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/SerializedSingleton.java)       |
 | 2   | Prototype Pattern  |                             |                                                                                                                                     |
 |     |                    |                             |                                                                                                                                     |
+
+
+
+
+
+
+
+
+Credits :
+- Java Design Patterns by Apress publications (Book)
+- journaldev (Website)
+- Stackoverflow (Query resolution)
