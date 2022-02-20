@@ -1,16 +1,13 @@
 # 30-days-of-design-patterns
 
-| Day | Pattern           | Code |
-| --- | ----------------- | ---- |
-| 1   | Singleton Pattern |      |
-
-| : GoF Design Patterns : |||
-| :------------ | :-------- | :----------------------------- |
-| 1 | : Singleton Pattern : | Eager Initialized Singleton \
-| | | Static Block Singleton \
-| | | Lazy Initialized Singleton \
-| | | Thread safe Singleton \
-| | | Bill Pugh Singleton \
-| | | Enum Singleton \
-| | | Serialized Singleton |
-| 2 | : Prototype Pattern : | |
+| Day | Pattern            | Types                       | Implementataion                                                                                                                     |
+| --- | ------------------ | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Singleton Patterns | Eager Initialized Singleton | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/EagerInitializedSingleton.java) |
+|     |                    | Static Block Singleton      | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/StaticBlockSingleton.java)      |
+|     |                    | Lazy Initialized Singleton  | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/LazyInitializedSingleton.java)  |
+|     |                    | Thread safe Singleton       | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/ThreadSafeSingleton.java)       |
+|     |                    | Bill Pugh Singleton         | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/BillPughSingleton.java)         |
+|     |                    | Enum Singleton              | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/EnumSingleton.java)             |
+|     |                    | Serialized Singleton        | [Link](https://github.com/anuanu0-0/30-days-of-design-patterns/blob/main/src/com/anuanu00/Singleton/SerializedSingleton.java)       |
+| 2   | Prototype Pattern  |                             |                                                                                                                                     |
+|     |                    |                             |                                                                                                                                     |
